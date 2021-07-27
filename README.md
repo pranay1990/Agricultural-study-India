@@ -30,14 +30,18 @@ The detailed discussion of the following graphs are given in the **Pranay_Crop_p
 <kbd>
   <img src="https://github.com/pranay1990/Agricultural-study-India/blob/main/top5_wheat_producer.png" />
 </kbd>
-3. Project motivation 3 <kbd>
+3. Project motivation 3 <br />
+<kbd>
   <img src="https://github.com/pranay1990/Agricultural-study-India/blob/main/Distribution_kharif_crops.png" />
 </kbd>
+<br />
 <kbd>
   <img src="https://github.com/pranay1990/Agricultural-study-India/blob/main/Distribution_rabi_crops.png" />
 </kbd>
-4. Project motivation 4 <kbd>
-  <img src="https://github.com/pranay1990/Agricultural-study-India/blob/main/India_agricultural_land.pngg" />
+<br />
+4. Project motivation 4 <br />
+<kbd>
+  <img src="https://github.com/pranay1990/Agricultural-study-India/blob/main/India_agricultural_land.png" />
 </kbd>
 
 
