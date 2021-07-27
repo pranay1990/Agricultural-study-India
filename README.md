@@ -20,7 +20,7 @@ Agriculture is the primary source of livelihood for most of the Indian populatio
 4. What is the time series progression of the total available agricultural land in India?
 
 ## Result and discussion
-The detailed discussion of the following graphs are given in the **Pranay_Crop_production_case_study.pdf**. Below we show the obtained results for the aforesaid project motivations.
+The detailed discussion of the following graphs are given in the [**Pranay_Crop_production_case_study.pdf**](https://github.com/pranay1990/Agricultural-study-India/blob/main/Pranay_Crop_production_case_study.pdf). Below we show the obtained results for the aforesaid project motivations.
 1. Project motivation 1 <kbd>
   <img src="https://github.com/pranay1990/Agricultural-study-India/blob/main/Wheat_rice_production.png" />
 </kbd>
